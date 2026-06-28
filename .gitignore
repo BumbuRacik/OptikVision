@@ -1,0 +1,36 @@
+# Build
+build/
+dist/
+target/
+
+# NetBeans
+nbproject/private/
+nbbuild/
+nbdist/
+.nb-gradle/
+
+# Logs
+*.log
+
+# Class files
+*.class
+
+# JAR
+*.jar
+
+# Temporary files
+*.tmp
+*.bak
+*.swp
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE
+.idea/
+.vscode/
+
+# Database local
+*.db
+*.sqlite
